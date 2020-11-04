@@ -1,0 +1,1 @@
+from app.main.serializers.judgment_serializer import JudgmentSerializer

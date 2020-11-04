@@ -1,0 +1,21 @@
+
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$180000$ih4GYMIj23Z3$KGyBnIwwLwODo1ae8RJsCBExqT6hqeADm1W+vN81OhY=",
+    "last_login": "2020-11-03T23:00:00.000Z",
+    "is_superuser": true,
+    "username": "suggestic",
+    "first_name": "",
+    "last_name": "",
+    "email": "suggestic@mailinator.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-11-03T23:00:00.000Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
